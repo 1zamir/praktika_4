@@ -312,3 +312,5 @@ for i in size:
 size.insert(s, Petya)
 print(size)
 print("Индекс Пети в строю: ", s)
+
+#результат задания: https://clck.ru/32Bezv
